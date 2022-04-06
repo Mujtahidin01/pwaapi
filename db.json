@@ -6,19 +6,6 @@
 {"id":4,"name":"Vulture, black","category":"Fuscia"},
 {"id":5,"name":"Dromedary camel","category":"Red"},
 {"id":6,"name":"Asian red fox","category":"Crimson"},
-{"id":7,"name":"Golden eagle","category":"Teal"},
-{"id":8,"name":"Monitor, two-banded","category":"Fuscia"},
-{"id":9,"name":"Bat, madagascar fruit","category":"Orange"},
-{"id":10,"name":"Ring-necked pheasant","category":"Violet"},
-{"id":11,"name":"Falcon, peregrine","category":"Violet"},
-{"id":12,"name":"Chickadee, black-capped","category":"Maroon"},
-{"id":13,"name":"Dragon, frilled","category":"Red"},
-{"id":14,"name":"Crane, stanley","category":"Orange"},
-{"id":15,"name":"Meerkat","category":"Yellow"},
-{"id":16,"name":"Lynx, african","category":"Red"},
-{"id":17,"name":"Dove, galapagos","category":"Yellow"},
-{"id":18,"name":"Flamingo, greater","category":"Indigo"},
-{"id":19,"name":"Harbor seal","category":"Fuscia"},
-{"id":20,"name":"Bustard, denham's","category":"Purple"}
+
 ]
 }
